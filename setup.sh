@@ -37,3 +37,6 @@ code --install-extension xabikos.javascriptsnippets
 
 #HTML5 code snippets
 code --install-extension abusaidm.html-snippets
+
+#Spell Check
+code --install-extension streetsidesoftware.code-spell-checker
