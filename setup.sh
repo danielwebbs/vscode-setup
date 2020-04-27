@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install vscode
-sudo snap install vscode --classic
+sudo snap install code --classic
 
 # Install extensions
 #Theme
@@ -18,9 +18,6 @@ code --install-extension eterJausovec.vscode-docker
 
 #Vaggrant syntax highlights
 code --install-extension marcostazi.vs-code-vagrantfile
-
-#Quokka javascript scratchpad
-code --install-extension WallabyJs.quokka-vscode
 
 #Path intellisense
 code --install-extension christian-kohler.path-intellisense
