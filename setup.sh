@@ -33,3 +33,29 @@ code --install-extension abusaidm.html-snippets
 
 #Spell Check
 code --install-extension streetsidesoftware.code-spell-checker
+
+#C# using support
+code --install-extension jchannon.csharpextensions
+
+#CF
+code --install-extension aws-scripting-guy.cform
+
+# CF linter, requires a pip library
+pip install cfn-lint
+code --install-extension kddejong.vscode-cfn-lint
+
+#TODO tooling
+code --install-extension wayou.vscode-todo-highlight
+code --install-extension gruntfuggly.todo-tree
+
+# Git lens
+code --install-extension eamodio.gitlens
+
+# CSS Peek
+code --install-extension pranaygp.vscode-css-peek
+
+#Regex preview for js
+code --install-extension chrmarti.regex
+
+#Bookmark
+code --install-extension alefragnani.bookmarks
